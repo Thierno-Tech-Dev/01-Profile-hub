@@ -16,7 +16,7 @@ A semantic, secure HTML portfolio page built for my international freelance care
 - Writing client‑focused, security‑oriented content for a professional portfolio
 
 ## 🚀 Live Demo
-[View Live](https://thierno-tech-dev.github.io/01-profile-hub/)
+[View Live](https://thierno-tech-dev.github.io/01-Profile-hub/)
 
 ## 📸 Screenshot
 *(Coming soon)*
