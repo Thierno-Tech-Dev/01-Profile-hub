@@ -3,13 +3,23 @@
 A semantic, secure HTML portfolio page built for my international freelance career.
 
 ## 🔒 Security by Design
-- Content‑Security‑Policy header
-- `rel="noopener noreferrer"` on all external links
-- Accessible landmarks and valid heading hierarchy 
-- it protect any link from a tabnadbagging attack. 
+- Content‑Security‑Policy header (CSP)
+- `rel="noopener noreferrer"` on all external links to prevent tabnabbing
+- Strict semantic landmarks and valid heading hierarchy for accessibility
+
+## 🏗️ Technologies Used
+- HTML5
+
+## 📚 What I Practiced
+- Crafting a complete `<head>` with SEO, social (Open Graph), and security meta tags
+- Building a fully semantic document outline (h1 → h2 → h3)
+- Writing client‑focused, security‑oriented content for a professional portfolio
 
 ## 🚀 Live Demo
-[View Live](https://Thierno-Tech-Dev.github.io/01-profile-hub/)
+[View Live](https://thierno-tech-dev.github.io/01-profile-hub/)
+
+## 📸 Screenshot
+*(Coming soon)*
 
 ## 📬 Contact
 - Email: thierno.tech@gmail.com
